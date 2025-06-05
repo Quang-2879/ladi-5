@@ -1,0 +1,2 @@
+(self.legacyJsonp=self.legacyJsonp||[]).push([[85466],{772784:function(n,_,t){"use strict";_.Z=t(915769).Z},576070:function(n,_,t){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/edit/[page]",function(){return t(772784).Z}])}},function(n){n.O(0,[97270,32227,76175,8789,75114,59514,46611,10917,55965,92774,5966,62119,80347,48609,509,6881,21506,52180,70453,98434,71572,20362,29322],function(){return n(n.s=576070)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/edit/[page]-5f4570ab50ae0a79.js.map

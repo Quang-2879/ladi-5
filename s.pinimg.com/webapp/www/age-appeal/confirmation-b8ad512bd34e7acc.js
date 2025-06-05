@@ -1,0 +1,2 @@
+(self.legacyJsonp=self.legacyJsonp||[]).push([[40212],{880032:function(n,t,u){"use strict";u.d(t,{Z:function(){return _}});var o=u(654512),i=u(19035),_=function(){return(0,i.jsx)(o.Z,{})}},67647:function(n,t,u){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/age-appeal/confirmation",function(){return u(880032).Z}])}},function(n){n.O(0,[97270,32227,76175,8789,48454],function(){return n(n.s=67647)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/age-appeal/confirmation-b8ad512bd34e7acc.js.map

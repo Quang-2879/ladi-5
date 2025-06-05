@@ -1,0 +1,2 @@
+(self.legacyJsonp=self.legacyJsonp||[]).push([[12722],{919246:function(n,i,u){"use strict";var c=u(127433),o=u(19035);i.Z=function(){return(0,o.jsx)(c.Z,{shouldSkipDirectlyToInvalidLink:!0})}},151591:function(n,i,u){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/secure/panic",function(){return u(919246).Z}])}},function(n){n.O(0,[97270,32227,6194,76175,8789,46611,55965,5966,70453,17616,79217],function(){return n(n.s=151591)}),n.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/secure/panic-2e9d07e5bdc20a7a.js.map

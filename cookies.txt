@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sv368.dealer	TRUE	/	FALSE	1999999999	_lscache_vary	7efe268640a8ca674d4edc27d18c959d
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	w_63oqgMpDS2TKW.pknA6NpCx56c.iww12UCwyf88g0-1749130463-1.0.1.1-oG1UN5JgJ_zzuPGmP_no1xXzNzaY.4_rz0Dp7IwNLRcz6J_r25qEf.9_Q9_oCwPr
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	WsMxqYktPNKMei4_5ybMRYHpmV5jUl5tefQ2h0x4C2g-1749130463440-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	062ee2a5-ca41-401e-9ac1-0b281ca710c9"
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	62b8d48e312e9aeef48541aa67e3bcec
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZBUCtvcVVERnpyRjVjck9nV2NsMmdZMTVna3JIOXBVZkxUOU51eW1IRFdaWGxrOHpBczFDRWs4VUxabTBMaEZDTmFFckdWcmZMalAxVW44UG1PM01KeVllcitQSStFVzdPZ1ZjaFR5SUVMcz0mQ0R2eEtuMmpwVGtwUmh1ZDlKZko0R1NzVTBjPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+sv368.dealer	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+.sv368.dealer	TRUE	/	FALSE	1999999999	__cf_bm	poluan2CFjiKrBhsZxu2NuYG0f5VEgXF9GlF.vwUYzw-1749133113-1.0.1.1-cODqBw.Su4AlxBKuL.K0LiQSstnHFQVbfNa_lwE8dfRMIbCkk2VZy9vwplMa7iGFRcllY2uNCDfCAjRjhISMBflNlQuo6ZxQw8a_4HuCM.4
+sv368.dealer	TRUE	/	FALSE	1999999999	SameSite	None
+
